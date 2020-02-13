@@ -12,7 +12,7 @@ public class ProductmsApplication {
 		System.out.println("Context loadingmmm");
 		SpringApplication.run(ProductmsApplication.class, args);
 		
-		System.out.println("Context loading");
+		System.out.println("Context loading for application");
 	}
 
 }
