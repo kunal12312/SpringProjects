@@ -19,7 +19,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- <dependency>
+		<!-- <dependency> -------------------------------TEST GIT BRANCH-------------------------
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jdbc</artifactId>
 		</dependency> -->
